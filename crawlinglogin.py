@@ -3,7 +3,7 @@ import re
 from bs4 import BeautifulSoup
 
 # Give the LoginURL
-login_url = 'https://rostantechnologies.com/RostanTicketingTool/login?returnUrl=%2FemployeeDashboard'
+login_url = ''
 
 # Give the Login credentials
 login_data = {
