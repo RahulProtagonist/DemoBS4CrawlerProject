@@ -7,8 +7,8 @@ login_url = 'https://rostantechnologies.com/RostanTicketingTool/login?returnUrl=
 
 # Give the Login credentials
 login_data = {
-                'username': 'rahul@rostantechnologies.com',
-                'password': 'rahul123'
+                'username': '',
+                'password': ''
             }
 
 # Now start the session
