@@ -40,7 +40,7 @@ if response.status_code == 200:
     print("Login Successful")
 
     # Make a GET request to the content URL (Give the URL you want to crawl)
-    content_url = 'https://rostantechnologies.com/RostanTicketingTool/employeeDashboard'
+    content_url = ''
     response = session.get(content_url)
 
     # Parse the HTML content of the Page
